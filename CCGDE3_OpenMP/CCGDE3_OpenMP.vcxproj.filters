@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="suite">
+      <UniqueIdentifier>{c6a076ce-41c4-4a7a-8715-badaa6a5c86f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CCGDE3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="crossover.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="crowdingDistance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="display.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dominanceComparator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="evaluate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="initialize.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="memoryAllocation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rand.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="selection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="species.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZDT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EMO_test_suite.cpp">
+      <Filter>suite</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CCGDE3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rand.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZDT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EMO_test_suite.h">
+      <Filter>suite</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="testInstance.txt" />
+  </ItemGroup>
+</Project>

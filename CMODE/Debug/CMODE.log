@@ -1,0 +1,27 @@
+﻿  main.cpp
+d:\program files (x86)\projects\vs2010\ccemo\cmode\common.h(16): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\common.h(25): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\common.h(33): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\common.h(41): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\common.h(67): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(47): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(50): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(65): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(77): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(92): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(101): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(120): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(128): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(138): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(143): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(238): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(240): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(399): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(446): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(448): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(455): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(458): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(577): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\rcmode.h(582): warning C4018: “<”: 有符号/无符号不匹配
+d:\program files (x86)\projects\vs2010\ccemo\cmode\main.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+  CMODE.vcxproj -> D:\Program Files (x86)\Projects\VS2010\CCEMO\Debug\CMODE.exe

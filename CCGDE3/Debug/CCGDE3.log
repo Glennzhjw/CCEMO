@@ -1,0 +1,10 @@
+﻿  CCGDE3_MPI.cpp
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3\ccgde3_mpi.cpp(103): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3\ccgde3_mpi.cpp(174): warning C4101: “i”: 未引用的局部变量
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3\ccgde3_mpi.cpp(364): warning C4101: “k”: 未引用的局部变量
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3\ccgde3_mpi.cpp(364): warning C4101: “j”: 未引用的局部变量
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3\ccgde3_mpi.cpp(523): warning C4101: “k”: 未引用的局部变量
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3\ccgde3_mpi.cpp(523): warning C4101: “j”: 未引用的局部变量
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3\ccgde3_mpi.cpp(935): warning C4101: “k”: 未引用的局部变量
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3\ccgde3_mpi.cpp(935): warning C4101: “j”: 未引用的局部变量
+  CCGDE3.vcxproj -> D:\Program Files (x86)\Projects\VS2010\CCEMO\Debug\CCGDE3.exe

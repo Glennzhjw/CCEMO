@@ -1,0 +1,20 @@
+﻿  ZDT.cpp
+  util.cpp
+  species.cpp
+  sort.cpp
+  selection.cpp
+  rand.cpp
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3_openmp\rand.cpp(115): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  memoryAllocation.cpp
+  list.cpp
+  initialize.cpp
+  evaluate.cpp
+  EMO_test_suite.cpp
+  dominanceComparator.cpp
+  display.cpp
+  crowdingDistance.cpp
+  crossover.cpp
+d:\program files (x86)\projects\vs2010\ccemo\ccgde3_openmp\crossover.cpp(30): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  CCGDE3.cpp
+  正在生成代码...
+  CCGDE3_OpenMP.vcxproj -> D:\Program Files (x86)\Projects\VS2010\CCEMO\Debug\CCGDE3_OpenMP.exe

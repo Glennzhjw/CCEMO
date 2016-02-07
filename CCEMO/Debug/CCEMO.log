@@ -1,0 +1,20 @@
+﻿  utility.cpp
+  sort.cpp
+  rand.cpp
+  nondominance.cpp
+  mpiImplement.cpp
+  main.cpp
+  list.cpp
+  initialization.cpp
+  index.cpp
+  handleMemory.cpp
+  global.cpp
+  EMO_test_suite.cpp
+  dominanceComparator.cpp
+  distance.cpp
+  display.cpp
+  differentialEvolution.cpp
+  cooperativeCoevolution.cpp
+  control.cpp
+  正在生成代码...
+d:\program files (x86)\projects\vs2010\ccemo\ccemo\rand.cpp(194): error C4716: “logisticMap”: 必须返回一个值
